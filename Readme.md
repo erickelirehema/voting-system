@@ -7,11 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+# Voting System App
+
 ## About Voting System app
 
 Voting system is made by Laravel
 
-## Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## PHP framwork
+
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Contributing
 

@@ -10,7 +10,8 @@
 ## About Voting System app
 
 Voting system is made by Laravel
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Contributing
 

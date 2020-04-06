@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+888<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -12,9 +12,10 @@
 
 Voting system is made by Laravel
 
-## PHP framwork
+## PHP framework
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
 
 ## Contributing
 
